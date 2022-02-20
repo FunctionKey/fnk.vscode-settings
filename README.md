@@ -1,0 +1,1 @@
+# fnk.vscode-settings
